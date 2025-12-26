@@ -1,5 +1,95 @@
+# Archivos de configuración con credenciales
+config.py
+credentials/
+*.env
+.env.local
+.env.production
+secrets/
+
+# Datos sensibles de POSITIVA
 *.xlsx
+*.xlsm
+*.xlsb
 *.xls
 *.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs del sistema
 *.log
-credentials/
+logs/
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Carpetas de trabajo temporal
+trabajo/
+trabajo_*/
+temp/
+tmp/
+*.tmp
+downloads/
+output/
+consolidados/
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.orig
+*.rej
