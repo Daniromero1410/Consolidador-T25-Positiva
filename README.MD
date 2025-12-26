@@ -4,7 +4,8 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 [![Status](https://img.shields.io/badge/Status-Production-success.svg)]()
 
-Sistema ETL para consolidación y validación de datos de tarificación médica desarrollado para POSITIVA Compañía de Seguros.
+Sistema ETL para consolidación y validación de datos de tarificación médica desarrollado para POSITIVA Compañía de Seguros. Este proyecto sigue en progreso por lo que se ve el avance hasta el momento
+
 
 ## Descripción
 
