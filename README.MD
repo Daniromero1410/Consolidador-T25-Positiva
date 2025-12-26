@@ -184,16 +184,16 @@ cp config.example.py config.py
 # Editar config.py con credenciales reales
 # IMPORTANTE: config.py está en .gitignore y nunca debe subirse a control de versiones
 ```
-
+Por seguridad no se agregan los datos completos de conexion
 Estructura del archivo `config.py`:
 
 ```python
 @dataclass
 class Config:
-    HOST: str = 'mft.positiva.gov.co'
-    PORT: int = 2243
-    USERNAME: str = 'your_username'
-    PASSWORD: str = 'your_password'
+    HOST: str = 'host'
+    PORT: int = 22
+    USERNAME: str = 'tu_username'
+    PASSWORD: str = 'tu_password'
     TIMEOUT_ARCHIVO: int = 60
     MAX_SEDES: int = 50
     # ... otras configuraciones
