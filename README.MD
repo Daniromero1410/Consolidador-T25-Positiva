@@ -393,7 +393,7 @@ Para reportar problemas o sugerir mejoras, contactar al equipo de desarrollo.
 ## Desarrollo
 
 **Desarrollador Principal:** Daniel Romero  
-**Rol:** Software Engineer - Big Data & AI  
+**Rol:** Software Engineer 
 **Organización:** GESTAR INNOVACIÓN / POSITIVA Compañía de Seguros  
 **Contacto:** danielromero.software@gmail.com
 
